@@ -1,5 +1,5 @@
 # Welcome!
-✨ I'm **Ana**, an **Automation and Computer Science** student passionate about exploring the intersection of programming, problem-solving, and innovative technologies. I enjoy tackling challenges that combine *creativity* and *logic*, with a particular interest in fields like **mathematics** and **artificial intelligence**. Join me as I navigate the ever-evolving world of technology and share my learning journey!
+✨ I'm **Ana**, an **Automatic Control and Computer Science** student passionate about exploring the intersection of programming, problem-solving, and innovative technologies. I enjoy tackling challenges that combine *creativity* and *logic*, with a particular interest in fields like **mathematics** and **artificial intelligence**. Join me as I navigate the ever-evolving world of technology and share my learning journey!
 
 ---
 
