@@ -1,5 +1,5 @@
 ## Welcome!
-✨ I'm **Ana**, a student passionate about exploring the intersection of **programming, problem-solving, and innovative technologies**. I enjoy tackling challenges where computer science meets other disciplines — such as medicine, space exploration, and mathematics — to create impactful **solutions that push boundaries and improve lives**.
+✨ I'm **Ana**, a student passionate about exploring the intersection of **programming, problem-solving, and innovative technologies**. I enjoy tackling challenges where computer science meets other disciplines to create impactful **solutions that push boundaries and improve lives**.
 
 ---
 
